@@ -59,7 +59,7 @@ export default function Portfolio() {
       title: "Student Assistant",
       organization: "Binghamton University - School of Management",
       type: "Independent Study",
-      period: "February 2025 - Present",
+      period: "February 2026 - Present",
       location: "Binghamton, NY",
       description: "Developing a GenAI chatbot platform for behavioral research experiments using Python, JavaScript, LLM APIs, Postgres. Implementing conversation logging, data storage, and export functionality with configurable system prompts for human-AI interaction studies.",
       icon: Code,
