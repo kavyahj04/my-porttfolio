@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef } from 'react';
-import { Menu, X, Mail, Linkedin, Github, ChevronDown, Code, Brain, Cloud, Database, ArrowRight, ExternalLink, Sparkles } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Menu, X, Mail, Linkedin, ChevronDown, Code, Brain, Cloud, ArrowRight, Sparkles } from 'lucide-react';
 
 export default function Portfolio() {
   const [activeSection, setActiveSection] = useState('home');
