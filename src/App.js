@@ -516,7 +516,7 @@ export default function Portfolio() {
 
           <div className="flex items-center justify-center gap-6 fade-in-up stagger-5">
             <a
-              href="https://linkedin.com/in/kavya-h-j-70366014b/"
+              href="https://www.linkedin.com/in/kavya-hosamane-jayanna-70366014b/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transition-colors"
@@ -785,7 +785,7 @@ export default function Portfolio() {
             </a>
             
             <a
-              href="https://linkedin.com/in/kavya-h-j-70366014b/"
+              href="https://www.linkedin.com/in/kavya-hosamane-jayanna-70366014b/"
               target="_blank"
               rel="noopener noreferrer"
               className="card-hover p-6 rounded-2xl flex items-center justify-center gap-4 group fade-in-up stagger-3"
